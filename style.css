@@ -5,5 +5,22 @@ body{
 }
 
 h1{
-    
+    text-align: center;
+}
+
+a{
+
+  color: darkslategray;
+}
+
+a:visited {
+  color: darkslategray;
+}
+
+a:hover {
+  color: darkslategray;
+}
+
+a:active {
+  color: darkslategray;
 }
