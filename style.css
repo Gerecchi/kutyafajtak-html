@@ -40,3 +40,9 @@ tr{
   border-style: solid;
   border-color: #4d0808;
 }
+
+p{
+    line-height: 1.5;
+    text-indent: 1cm;
+    
+}
