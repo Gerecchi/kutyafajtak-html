@@ -1,6 +1,6 @@
 body{
     background-image: url(./img/background/keith-misner-h0Vxgz5tyXA-unsplash.jpg);
-    color: brown;
+    color: #4d0808;
 
 }
 
@@ -23,4 +23,12 @@ a:hover {
 
 a:active {
   color: darkslategray;
+}
+tr{
+  border-width: 1px;
+  border-style: solid;
+  border-color: #aa7777;
+  padding: 0.5rem;
+  margin: auto;
+  border-collapse: collapse;
 }
