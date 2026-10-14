@@ -32,3 +32,11 @@ tr{
   margin: auto;
   border-collapse: collapse;
 }
+.minikep{
+  float: right;
+  width: 200px;
+  margin-left: 20px;
+  border-width: 3px;
+  border-style: solid;
+  border-color: #4d0808;
+}
